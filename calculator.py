@@ -1,4 +1,7 @@
 # https://github.com/evan-j-losier/lab11-EL-EL.git
+# Partner 1: Evan Losier
+# Partner 2: Enric Lin
+
 import math
 
 
