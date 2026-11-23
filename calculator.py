@@ -27,3 +27,9 @@ def log(a, b):
 
 def exp(a, b):
     return a ** b
+def square_root(a): # raise ValueError if a < 0
+    math.sqrt(a)
+    if a < 0:
+        raise ValueError
+def hypotenuse(a, b):  # can have negative nums
+    math.hypot(a, b)
